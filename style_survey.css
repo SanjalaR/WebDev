@@ -1,0 +1,40 @@
+h1,p{
+  text-align: center;
+  color: #FFB6C1;
+}
+body{
+  background-color: #C71585;;
+}
+fieldset{
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+  padding: 10px 10px;
+  border-color: #FF0580;
+  background-color: #FF69B4;
+}
+label{
+  display:block;
+  margin:15px;
+  //text-align: left;
+}
+input, select, textarea{
+  background-color: #FF0580;
+  color: #FFB6C1;
+  border: 1px solid #FF0580;
+  min-height: 2em;
+  margin: 10px 0 0 0;
+  width: 100%;
+}
+input[type="Submit"]{
+  width: 60%;
+  font-size: 1.1rem;
+  border: 1px solid #FF0580;
+}
+.one, .two{
+  display: inline;
+}
+
+input[type="radio"], input[type="checkbox"]{
+  margin: -4px;
+}

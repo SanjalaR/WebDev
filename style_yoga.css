@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    color:rgb(153, 250, 153);
+    font-family: latoregular;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.rehab{
+    margin-top: -30px;
+    text-align: center;
+    font-family: nixie_oneregular;
+    color:rgb(153, 250, 153);
+    font-size:26px;
+}
+body{
+    background-color: rgb(49, 95, 82);
+}
+.white_part{
+    background-color: white;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+}
+.yoga{
+    font-family: nixie_oneregular;
+    color: rgb(33,165, 30);
+    font-size: 100px;
+    font-weight:400;
+}
+.stuff{
+    font-family: nixie_oneregular;
+    color: rgb(33,165, 30);
+    font-size: 70px;
+    text-align: center;
+}
+hr{
+    margin-top: -50px;
+    background-color: rgb(177, 54, 219);
+    width: 300px;
+    height: 4px;
+    border-color: rgb(177, 54, 219);
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+}
+.last{
+    text-align: center;
+    font-family: nixie_oneregular;
+    color:rgb(153, 250, 153);
+    font-size:26px;
+}
